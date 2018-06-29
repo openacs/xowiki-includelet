@@ -4,7 +4,7 @@ ad_library {
 
     @creation-date 2008-07-16
     @author Don Baccus <dhogaza@pacifier.com>
-    @version $Id$
+    @cvs-id $Id$
 }
 
 namespace eval xowiki_includelet::install {}

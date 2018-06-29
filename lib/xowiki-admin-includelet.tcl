@@ -1,8 +1,8 @@
 ad_page_contract { The display logic for the xowiki admin portlet
-    
+
     @author Michael Totschnig
     @author Gustaf Neumann
-    @cvs_id $Id$
+    @cvs-id $Id$
 }
 
 set base_url [site_node::get_url_from_object_id -object_id $package_id]
